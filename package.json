@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A minimal Node.js server that runs on port 3000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
