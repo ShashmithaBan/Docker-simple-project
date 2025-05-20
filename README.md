@@ -46,7 +46,7 @@ Next at the port 3000 you will get the web-app
 ├── package.json
 └── README.md
 ```
-
+---
 ## 🐳 Dockerfile (Multi-stage)
 
 ```
