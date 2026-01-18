@@ -6,8 +6,8 @@ COPY . /app
 
 RUN npm install
 
-EXPOSE 3000
+ENV PORT = 3000
 
-ENV NAME simple-project
+EXPOSE 3000
 
 CMD ["npm" , "start"]
